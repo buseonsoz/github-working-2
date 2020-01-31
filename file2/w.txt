@@ -1,0 +1,3 @@
+bu klasör içinde klasör olan dosyanın içinde bir text dosyasıdır.
+bu çalışmada bunları sıra sıra geçmey silmeyi ya da yapacağım
+bu bir git çalışma dosyanın içinindeki dosyanın içinde olan klasörün iyazı metnidir.
